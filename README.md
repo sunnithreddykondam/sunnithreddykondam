@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**sunnithreddykondam/sunnithreddykondam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on brainstorming ideas for my new projects.
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sunnithreddyvam@gmail.com/ (682) 248 - 8712
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once worked at a firm for 1 year but never physically went there.
--->
+
